@@ -9,12 +9,11 @@ This thing flips the bytes around in a GBA ROM you dump out of WiiU RAM.
 ### Usage
 
 ```
-$gcc main.c -o fiddle.exe
-$fiddle.exe gbaRomDump.gba
+$ gcc main.c -o fiddle.exe
+$ fiddle.exe gbaRomDump.gba
 ```
 
 That will output a file in the same directory called gbaRomDump.gba.new.gba.
-An example of the contents of a file
 
 ### Example
 
