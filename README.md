@@ -4,7 +4,7 @@ This thing flips the bytes around in a GBA ROM you dump out of WiiU RAM.
 
 ### Binaries
 - [Mac OS X](http://d2a5v43y5lgvv8.cloudfront.net/bin/Mac+x64/fiddle) 
-- [Windows x64](http://d2a5v43y5lgvv8.cloudfront.net/bin/Windows+x64/fiddle)
+- [Windows x64](http://d2a5v43y5lgvv8.cloudfront.net/bin/Windows+x64/fiddle.exe)
 
 ### Usage
 
