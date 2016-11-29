@@ -2,6 +2,10 @@
 ### What this is 
 This thing flips the bytes around in a GBA ROM you dump out of WiiU RAM. 
 
+### Binaries
+[Mac OS X](https://s3.amazonaws.com/gbabytefiddle/bin/Mac+x64/fiddle) 
+[Windows x64](https://s3.amazonaws.com/gbabytefiddle/bin/Windows+x64/fiddle)
+
 ### Usage
 
 ```
