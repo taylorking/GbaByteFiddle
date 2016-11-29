@@ -17,7 +17,6 @@ int main(int argc, char ** argv) {
   rewind(read_file);
   char * buffer = malloc(size);
   fread(buffer, size, 1, read_file);
-  #pragma clang loop unroll(disable)
   for (int i = 0; i < size; i+=2) {
     char old_value = *(buffer + i);
     *(buffer + i) = *(buffer + i + 1);
